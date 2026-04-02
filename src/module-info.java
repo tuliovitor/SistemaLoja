@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module SistemaLoja {
+	requires java.sql;
+	requires java.desktop;
+}
